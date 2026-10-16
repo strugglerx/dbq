@@ -31,3 +31,6 @@ Thumbs.db
 
 # Profiles and local credentials
 .dbq.local.yaml
+
+# Internal notes & personal learning docs
+.notes/
