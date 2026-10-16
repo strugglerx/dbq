@@ -1,5 +1,6 @@
 # Binaries
 dbq
+dist/
 *.exe
 *.exe~
 *.dll
